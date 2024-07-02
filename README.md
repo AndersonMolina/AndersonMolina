@@ -1,10 +1,10 @@
 ## Hey 👋, I'm Anderson Molina!
 
-<a href='https://www.linkedin.com/in/molinaanderson/'><img align='left' alt="Linkedin" src="https://github.com/AndersonMolina/AndersonMolina/assets/13072328/9a897c47-9db6-409b-93f5-7c967c91bef2" height='48px'/></a>
-<a href='https://www.instagram.com/anderson_jmolina/'><img align='left' alt="Instagram" src="https://github.com/AndersonMolina/AndersonMolina/assets/13072328/c7848811-56da-4de0-b6ad-e071b681a842" height='48px'/></a>
-<a href='https://www.youtube.com/@iceman_molina'><img align='left' alt="Youtube" src="https://github.com/AndersonMolina/AndersonMolina/assets/13072328/49df8c0e-4c51-4c03-9289-8f96b48062b1" height='48px'/></a>
-<a href='https://www.last.fm/pt/user/MolinaAnderson'><img align='left' alt="LastFM" src="https://github.com/AndersonMolina/AndersonMolina/assets/13072328/e52708fe-23e4-4d4a-a55a-aa87d8a86b1b" height='48px'/></a>
-<a href='https://steamcommunity.com/id/AndersonMolina/'><img align='left' alt="Steam" src="https://github.com/AndersonMolina/AndersonMolina/assets/13072328/7f9b4ba4-ea12-454c-a7c5-0f3bb4916d17" height='48px'/></a>
+<a href='https://www.linkedin.com/in/molinaanderson/'><img align='left' alt="Linkedin" src="https://github.com/AndersonMolina/AndersonMolina/assets/13072328/9a897c47-9db6-409b-93f5-7c967c91bef2" height='40px'/></a>
+<a href='https://www.instagram.com/anderson_jmolina/'><img align='left' alt="Instagram" src="https://github.com/AndersonMolina/AndersonMolina/assets/13072328/c7848811-56da-4de0-b6ad-e071b681a842" height='40px'/></a>
+<a href='https://www.youtube.com/@iceman_molina'><img align='left' alt="Youtube" src="https://github.com/AndersonMolina/AndersonMolina/assets/13072328/49df8c0e-4c51-4c03-9289-8f96b48062b1" height='40px'/></a>
+<a href='https://www.last.fm/pt/user/MolinaAnderson'><img align='left' alt="LastFM" src="https://github.com/AndersonMolina/AndersonMolina/assets/13072328/e52708fe-23e4-4d4a-a55a-aa87d8a86b1b" height='40px'/></a>
+<a href='https://steamcommunity.com/id/AndersonMolina/'><img align='left' alt="Steam" src="https://github.com/AndersonMolina/AndersonMolina/assets/13072328/7f9b4ba4-ea12-454c-a7c5-0f3bb4916d17" height='40px'/></a>
 
 
 <br>
