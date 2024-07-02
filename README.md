@@ -32,20 +32,20 @@ I am extremely committed to work, passionate about technology since I was a chil
 #
 🔨 Languages and Tools:
 
-<img align="left" src="https://github.com/AndersonMolina/AndersonMolina/assets/13072328/2d0dbb42-610c-4b44-8ffb-cbdd1ff55ba2" alt=".NET" height="41px"/> </a> 
-<img align="left" src="https://github.com/AndersonMolina/AndersonMolina/assets/13072328/8b17af54-0f74-488c-b584-19c350e37fe6" alt="ASP.NET" height="41px"/> </a> 
-<img align="left" src="https://github.com/AndersonMolina/AndersonMolina/assets/13072328/bc5e7661-e802-419c-864b-f7a9ed642b42)" alt="C#" height="41px"/> </a> 
-<img align="left" src="https://github.com/AndersonMolina/AndersonMolina/assets/13072328/53b11cc2-51cf-467c-b075-1b9e639b4eb7" alt="Visual Studio" height="41px"/> </a> 
-<img align="left" src="https://github.com/AndersonMolina/AndersonMolina/assets/13072328/6f5fe856-5444-4015-98a9-04a5ec599b06" alt="SQL Server" height="41px"/> </a> 
-<img align="left" src="https://github.com/AndersonMolina/AndersonMolina/assets/13072328/da2ea86c-d840-4219-b0ca-ec89fb70dd7c" alt="SQL" height="41px"/> </a> 
-<img align="left" src="https://github.com/AndersonMolina/AndersonMolina/assets/13072328/5b79585f-6ba3-46e1-ba7f-4493851ac86e" alt="Visual Basic 6" height="41px"/> </a> 
-<img align="left" src="https://github.com/AndersonMolina/AndersonMolina/assets/13072328/1eaefcba-3ca4-4617-8b73-960f41a5a72d" alt="Docker" height="41px"/> </a> 
-<img align="left" src="https://github.com/AndersonMolina/AndersonMolina/assets/13072328/8338a2a8-5ffc-4710-a2e2-ee3ae46a735c" alt="GitHub" height="41px"/> </a> 
-<img align="left" src="https://github.com/AndersonMolina/AndersonMolina/assets/13072328/bc01b3df-6f4c-44f0-8ca2-8ea2b86c98a6" alt="Git" height="41px"/> </a> 
-<img align="left" src="https://github.com/AndersonMolina/AndersonMolina/assets/13072328/5b60c869-c48c-4088-a520-43db4a255a21" alt="Python" height="41px"/> </a> 
-<img align="left" src="https://github.com/AndersonMolina/AndersonMolina/assets/13072328/6fc2af98-13df-46be-85ea-5f47a8df165a" alt="RabbitMQ" height="41px"/> </a> 
-<img align="left" src="https://github.com/AndersonMolina/AndersonMolina/assets/13072328/392d4751-e520-49bc-8b60-a7f80698914d" alt="MySQL" height="41px"/> </a> 
-<img align="left" src="https://github.com/AndersonMolina/AndersonMolina/assets/13072328/f13a3ad7-9eba-49e2-b81e-aee3bc9f4cb2" alt="HTML5" height="41px"/> </a> 
+<img align="left" src="https://github.com/AndersonMolina/AndersonMolina/assets/13072328/2d0dbb42-610c-4b44-8ffb-cbdd1ff55ba2" alt=".NET" height="40px"/> </a> 
+<img align="left" src="https://github.com/AndersonMolina/AndersonMolina/assets/13072328/8b17af54-0f74-488c-b584-19c350e37fe6" alt="ASP.NET" height="40px"/> </a> 
+<img align="left" src="https://github.com/AndersonMolina/AndersonMolina/assets/13072328/bc5e7661-e802-419c-864b-f7a9ed642b42)" alt="C#" height="40px"/> </a> 
+<img align="left" src="https://github.com/AndersonMolina/AndersonMolina/assets/13072328/53b11cc2-51cf-467c-b075-1b9e639b4eb7" alt="Visual Studio" height="40px"/> </a> 
+<img align="left" src="https://github.com/AndersonMolina/AndersonMolina/assets/13072328/6f5fe856-5444-4015-98a9-04a5ec599b06" alt="SQL Server" height="40px"/> </a> 
+<img align="left" src="https://github.com/AndersonMolina/AndersonMolina/assets/13072328/da2ea86c-d840-4219-b0ca-ec89fb70dd7c" alt="SQL" height="40px"/> </a> 
+<img align="left" src="https://github.com/AndersonMolina/AndersonMolina/assets/13072328/5b79585f-6ba3-46e1-ba7f-4493851ac86e" alt="Visual Basic 6" height="40px"/> </a> 
+<img align="left" src="https://github.com/AndersonMolina/AndersonMolina/assets/13072328/1eaefcba-3ca4-4617-8b73-960f41a5a72d" alt="Docker" height="40px"/> </a> 
+<img align="left" src="https://github.com/AndersonMolina/AndersonMolina/assets/13072328/8338a2a8-5ffc-4710-a2e2-ee3ae46a735c" alt="GitHub" height="40px"/> </a> 
+<img align="left" src="https://github.com/AndersonMolina/AndersonMolina/assets/13072328/bc01b3df-6f4c-44f0-8ca2-8ea2b86c98a6" alt="Git" height="40px"/> </a> 
+<img align="left" src="https://github.com/AndersonMolina/AndersonMolina/assets/13072328/5b60c869-c48c-4088-a520-43db4a255a21" alt="Python" height="40px"/> </a> 
+<img align="left" src="https://github.com/AndersonMolina/AndersonMolina/assets/13072328/6fc2af98-13df-46be-85ea-5f47a8df165a" alt="RabbitMQ" height="40px"/> </a> 
+<img align="left" src="https://github.com/AndersonMolina/AndersonMolina/assets/13072328/392d4751-e520-49bc-8b60-a7f80698914d" alt="MySQL" height="40px"/> </a> 
+<img align="left" src="https://github.com/AndersonMolina/AndersonMolina/assets/13072328/f13a3ad7-9eba-49e2-b81e-aee3bc9f4cb2" alt="HTML5" height="40px"/> </a> 
 
 <br>
 
