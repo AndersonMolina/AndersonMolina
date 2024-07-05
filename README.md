@@ -24,7 +24,7 @@ I am extremely committed to work, passionate about technology since I was a chil
 - 🤘 &nbsp; I'm metalhead and passionate about 🎸guitars!
 - 🎶 &nbsp; Lover of Heavy Metal and its subgenres; Darkwave; Postpunk; Synthwave; 80s Pop; Synthpop and Retrowave.
 - 🎮 &nbsp; I love games, especially FPS games. I'm from the old school, from the era of Doom, Quake, etc! ☠️
-- 🌱 &nbsp; I’m currently learning Coding and Design Patterns; 
+- 🌱 &nbsp; I’m currently learning Coding and Design Patterns.
 - 👨🏻‍💻 &nbsp; Part of my projects are available on [Github](https://github.com/AndersonMolina?tab=repositories).
 - 🚫 &nbsp; I like to share my study projects here. My professional projects are not public due to contracts with companies.
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1uQbyUErsyUBCxigNhfIrPURf3gIGp2bq/view?usp=sharing)!
